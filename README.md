@@ -6,3 +6,4 @@ I've used MNIST data (see link: https://www.kaggle.com/code/midhunlalvs/digit-re
 I've incorporated the neural network model into a GUI application that prompts the user to draw a digit. Upon clicking the button "Recognize Digit", the application will recognize the digit written by the user.
 
 Note that this project is still in progress.
+![DigitRecognizer1](https://github.com/NicoMok/Digit-Recognizer-Application/assets/84463884/43144644-2441-439b-abcd-256fa0fab1fe)
